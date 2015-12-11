@@ -1,5 +1,5 @@
- .vertCenter {
-    min-height: 10em;
-    height: 10em;
-    display: table-cell;
-    vertical-align: middle }
+.emblem {
+	align:middle;
+	height: 50px !important;
+	width: 50px !important;
+}
