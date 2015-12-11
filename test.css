@@ -3,3 +3,7 @@
 	height: 50px !important;
 	width: 50px !important;
 }
+a { 
+    text-decoration: none;
+    outline: none;
+}
