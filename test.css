@@ -6,4 +6,20 @@
 a { 
     text-decoration: none;
     outline: none;
+}	
+.img-circle {
+	height: 200px !important;
+	width: 200px !important;
+}
+
+#parent {position: relative;}
+
+#child {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 30%;
+    margin: auto;
 }
